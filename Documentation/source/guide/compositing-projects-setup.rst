@@ -30,7 +30,7 @@ If the desired format is not in the menu:
 
 Frame Range and Frame Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Define the lenght of the project with Frame Range first and last frames value. 
+- Define the length of the project with Frame Range first and last frames value. 
 - Enter the desired FPS in the Frame Rate field. 
 
 GPU Rendering
