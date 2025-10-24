@@ -7,13 +7,13 @@ Linux
 .. toctree::
    :maxdepth: 2
 
-This chapter will guide your through the installation and maintenance of Natron on Linux.
+This chapter will guide you through the installation and maintenance of Natron on Linux.
 
 Requirements
 ------------
 
-Natron will work on any Linux distribution which still receives seccurity updates.
-This includes (but not limited to):
+Natron will work on any Linux distribution which still receives security updates.
+This includes (but is not limited to):
 
  * `CentOS <https://www.centos.org/>`_ / `RHEL <https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux>`_ 7 and later
  * `Debian <https://www.debian.org/>`_ 8 "Jessie" and later
@@ -38,7 +38,7 @@ The official binaries are built on CentOS 7, thus the basic system requirements 
 Download
 --------
 
-Navigate to https://natrongithub.github.io/1#download and download the latest version. This documentation will assume that you downloaded the installer (our default and recommended choice).
+Navigate to https://natrongithub.github.io/1#download and download the latest version. This documentation will assume that you have downloaded the installer (our default and recommended choice).
 
 .. image:: _images/linux_install_01.png
    :width: 30%
@@ -61,12 +61,12 @@ You are now ready to start the installation, double-click on the extracted file 
 
 *On some installations you are not allowed to execute downloaded files, right-click and select properties, then tick the 'Execute file as program' option. This option may have a different name depending on your distribution and desktop environment. You can also make the file executable through the terminal, type chmod +x filename.*
 
-You should now be greated with the installation wizard.
+You should now be greeted with the installation wizard.
 
 .. image:: _images/linux_install_05.png
-   :width: 30%
+   :width: 30%        
 
-Click 'Next' to start the installation, you first option is where to install Natron. Usually the default location is good enough. If you select a installation path outside your home directory you will need to supply the root (administrator) password before you can continue.
+Click 'Next' to start the installation, you will asked where you want to install Natron. Usually the default location is good enough. If you select a installation path outside your home directory you will need to supply the root (administrator) password before you can continue.
 
 .. image:: _images/linux_install_06.png
    :width: 30%
@@ -76,8 +76,8 @@ Your next option is the package selection, most users should accept the default.
 .. image:: _images/linux_install_07.png
    :width: 30%
 
-Then comes the standard license agreement, Natron and it's plug-ins are licensed under the GPL version 2. You can read more about the licenses for each component included in Natron after installation (in Help=>About).
-
+Then comes the standard license agreement, Natron and its plug-ins are licensed under the GPL version 2. You can read more about the licenses for each component included in Natron after installation (in Help= >About).
+ 
 .. image:: _images/linux_install_08.png
    :width: 30%
 
@@ -101,7 +101,7 @@ Natron can be started from the desktop menu (under Graphics) or by executing the
 Maintenance
 -----------
 
-Natron includes a maintenance tool called 'NatronSetup', with this application you can easily upgrade Natron and it's components when a new version is available. You can also add or remove individual packages, or remove Natron completely. The application is in the 'Graphics' section in the desktop menu, or you can start it from the folder where you installed Natron.
+Natron includes a maintenance tool called 'NatronSetup', with this application you can easily upgrade Natron and its components when a new version is available. You can also add or remove individual packages, or remove Natron completely. The application is in the 'Graphics' section in the desktop menu, or you can start it from the folder where you installed Natron.
 
 .. image:: _images/linux_install_11.png
    :width: 30%
