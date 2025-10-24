@@ -26,9 +26,9 @@ Layering Images Together with the Merge Node
 .. image:: _images/compositing-Merging_images_02.png
 
 
-* **union** - resize the output b box to fit both input bboxes completely.
-* **intersection** - use only those parts of the image where the input bboxes overlap.
-* **A or B** - use the selected input's bbox for the output.
+* **union** - resize the output b box to fit both input b boxes completely.
+* **intersection** - use only those parts of the image where the input b boxes overlap.
+* **A or B** - use the selected input's b box for the output.
 
 
 
