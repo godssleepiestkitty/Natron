@@ -11,15 +11,15 @@ Before using the DiskCache node, make sure you set a Disk cache path under Edit=
 
 .. image:: _images/compositing-projects-caching_01.png
 
-Make sure you have enough disk space left, your computer might crash due to full harddisk!
+Make sure you have enough disk space left, your computer might crash due to a full harddisk!
 
 .. image:: _images/compositing-projects-caching_03.png
 
-Then just add the DiskCache where needed in the node tree and select Pre-Cache in the Properties panel.
+Then, just add the DiskCache where needed in the node tree and select Pre-Cache in the Properties panel.
 
 .. image:: _images/compositing-projects-caching_02.png
 
-You will see the progress bar, wait until its 100% finised, then continue your compositing.
+You will see the progress bar, wait until it is 100% finised, then continue your compositing.
 
 .. toctree::
    :maxdepth: 2
