@@ -7,7 +7,7 @@ macOS
 .. toctree::
    :maxdepth: 2
 
-This chapter will guide your through the installation of Natron on macOS (formerly known as Mac OS X or OS X).
+This chapter will guide you through the installation of Natron on macOS (formerly known as Mac OS X or OS X).
 
 Requirements
 ------------
